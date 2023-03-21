@@ -1,0 +1,1 @@
+The only truely universal human resource is time and we need to determine how to most effectively allocate that limited resources to maximize our happiness ("utility").
