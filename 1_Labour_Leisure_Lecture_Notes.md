@@ -43,7 +43,30 @@ Alternatively:
 We can use labour time to acquire consumption:
 - get/earn a wage, $w$ for ever unit of $n$.
 
-### Aside:
-We generall think of this as a <ins>real wage</ins>.
-- Think of wage as opportunity cost of leisure (and vice versa).
-- can also include (directly or indirectly) the "price of leisure".
+> ### Aside:
+> We generall think of this as a <ins>real wage</ins>.
+> - Think of wage as opportunity cost of leisure (and vice versa).
+> - can also include (directly or indirectly) the "price of leisure".
+
+So $c = n\:*\:w$ or $\frac{c}{w}=n$
+Plugging into RC:
+> $n=h\:-\:\ell$  
+> $\frac{c}{w}=h\:-\:\ell$  
+> $c=w\left( h-\ell \right)$  
+
+So consumption is determined by  
+
+> 1. non-leisure time $\left( h-\ell \right)$
+> 2. wage $\left( w \right)$  
+
+Each hour of leisure provides utility: $U\uparrow\:as\:\ell\uparrow$  
+But also takes away from $c \left( via\:n\downarrow \right): U\downarrow\:as\:c\downarrow$
+
+## Question
+How do people determine how to divide up time to maximize utility?  
+> 1. Depends on ability to transform leisure time into consumption, at rate $w$.
+> 2. But also depends on how much utility is dervied from leisure vs. consumption.
+>> - same? $\left( 1\:to\:1 \right)$?  
+>> - At all levels?
+
+To understand the relationship, we use *Indifference Curves*
