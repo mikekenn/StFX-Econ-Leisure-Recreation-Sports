@@ -1,4 +1,55 @@
-# Section Title
+# Gambling and Uncertainty
+
+Gambling deals with wagering on outcomes of events that are uncertain/unknown. Making predictions or "best guesses" based on information is known ex-ante (beforehand). First, we need some tools/terminology to describe groups of outcomes/numbers and their likelihoods of occuring.
+
+## Standard Summary Statistics
+
+- SET Notation: $A=\left\{a_1,\:a_2,\:a_3,\:...\:a_n\right\}$
+    - e.g. $Student\:Age=\left\{19,\:19,\:20,\:24,\:19,\:21,\:18,\:20\right\}$
+    - Can be order of non-ordered.
+- *Sample Space*, S, List of possible values a set can take.
+    - e.g. $S_A=\left\{18,\:19,\:20,\:21,\:24\right\}$
+
+## Arithmetic
+
+### Mean or Average:
+
+Is a measure of the central tendency of a set of numbers
+
+> $\overline{a}=\frac{1}{n}\sum _{i=1}^n\left(a_i\right)=\frac{19+19+20+24+19+21+18+20}{8}$
+>> $\frac{160}{8}=20$
+
+This may or may not be an element of set.
+
+### Geometric Mean
+
+> $\left(\prod_{i=1}^{n}x_{i}\right)^{\frac {1}{n}}={\sqrt[{n}]{x_{1}x_{2}\cdots x_{n}}}$
+>> $={\sqrt[{8}]{(19)(19)(20)(24)(19)(21)(18)(20)}}$
+>>> $=19.92$
+
+### Median
+
+"Middle value in an ordered set"
+> $Student\:Age=\left\{18,\:19,\:19,\:19,\:20,\:20,\:21,\:24\right\}$
+>> $= 19.5$
+
+If $n$ is odd $med(a)=A\left(\frac{n+1}{2}\right)$  
+If $n$ is even $med(a)=\frac{A\left(\frac{n}{2}\right)+A\left(\frac{n}{2}+1\right)}{2}$
+
+> $\frac{A(H)+A(5)}{2}$
+>> $\frac{19+20}{2}$
+
+### Mode
+
+Most common number in set. (Most likely to be drawn/sampled)
+
+> $mode(A)=19$
+
+
+
+
+
+
 
 When is $E[Winnings]>0$ ?  
 When  
